@@ -1,12 +1,13 @@
-# vue-sampleproj-resources
+# vue-CRUD-resources-sample-project
+- vue JS 
+- animate css
+- HTTP calls
+- CRUD operations
+- Form validation
 
 ## Project setup
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
@@ -15,12 +16,5 @@ npm run serve
 npm run build
 ```
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+<img src="/demo1.PNG">
+<img src="/demo2.PNG">

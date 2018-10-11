@@ -38,7 +38,6 @@ html {
   height: 100%;
 }
 #app {
-  width: 80%;
   margin: 0 auto;
 }
 

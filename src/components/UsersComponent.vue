@@ -268,5 +268,8 @@ a.cancelLink {
 .card {
   margin: 10px 0;
 }
+input[type="text"].form-control {
+  width: 50%
+}
 </style>
 
